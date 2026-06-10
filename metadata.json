@@ -1,0 +1,6 @@
+{
+  "name": "Planora",
+  "description": "A premium glassmorphic Android-inspired modular productivity app with server-side AI planning, To-Do lists, Habite tracking, Google-inspired widgets, multi-language support (English, Hindi, Gujarati).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
